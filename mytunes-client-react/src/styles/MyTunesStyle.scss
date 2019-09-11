@@ -1,0 +1,127 @@
+$green: rgb(30, 215, 96);
+$light-black: rgb(40, 40, 40);
+$black: rgb(24, 24, 24);
+$grey: rgb(170, 170, 170);
+$sand: rgb(200, 200, 200);
+$white: rgb(255, 255, 255);
+$blue: #4688d7;
+$phone-width: 576px;
+body {
+  // background: $black;
+  font-family: "Roboto", sans-serif;
+
+  a {
+    color: $grey;
+
+    &:hover {
+      color: $sand;
+    }
+  }
+}
+
+.ui.inverted.menu.sidebar {
+  position: fixed;
+  top: 0;
+  // @media screen and (min-width:$phone-width) {
+  //   top: 0;
+  // }
+  bottom: 0;
+  left: 0;
+  @media screen and (min-width: $phone-width) {
+    width: 16%;
+  }
+  @media screen and (max-width: $phone-width) {
+    width: 25%;
+  }
+
+  background-color: black;
+  // box-shadow: inset -1px 0 0 rgb(0, 0, 0);
+  overflow-y: scroll;
+}
+.wbdv-content {
+  position: fixed;
+  top: 0rem;
+  bottom: 0;
+  right: 0;
+  @media screen and (min-width: $phone-width) {
+    width: 84%;
+  }
+  @media screen and (max-width: $phone-width) {
+    width: 75%;
+  }
+  overflow-y: scroll;
+}
+.wbdv-background {
+  position: fixed;
+  padding: 0;
+  margin: 0;
+
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+  // background-image: linear-gradient(
+  //   to right bottom,
+  //   rgb(44, 68, 90),
+  //   rgb(0, 0, 0)
+  // );
+  overflow-y: scroll;
+  color: white;
+}
+
+.ui.list.wbdv-browse-options > .item a.header {
+  color: rgba(255, 255, 255, 0.75) !important;
+  text-decoration: none;
+}
+.ui.list.wbdv-browse-options > .item a.header:hover {
+  color: rgb(255, 255, 255) !important;
+}
+.ui.list > .item .wbdv-browse-border {
+  color: rgb(255, 255, 255) !important;
+  width: 70%;
+  border-bottom: 2px solid rgb(86, 179, 86);
+  align-self: center;
+  position: relative;
+  height: auto;
+  margin: 0 auto;
+}
+
+.wbdv-search {
+  background-color: $light-black;
+}
+
+.wbdv-search .ui.fluid.wbdv-search-input > input {
+  height: 5rem;
+  font-size: 2rem;
+  color: white;
+}
+
+.wbdv-search-content {
+  padding-top: 1rem;
+  background-color: rgb(23, 23, 23);
+  height: 95%;
+  margin-left: 0em !important;
+  margin-right: 0em !important;
+  padding-bottom: 5rem;
+  overflow-y: scroll;
+}
+
+.ui.rating.wbdv-white-star .icon.active {
+  color: white;
+}
+.ui.rating.wbdv-white-star .icon {
+  color: black;
+}
+
+.wbdv-profile-list > .ui.ui.list > .item {
+  visibility: visible;
+  height: 100%;
+  font-size: 80%;
+}
+
+.ui.page > .ui.wbdv-modal.visible {
+  top: initial;
+  left: initial;
+  height: initial;
+}

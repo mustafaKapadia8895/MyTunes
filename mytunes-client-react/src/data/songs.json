@@ -1,0 +1,951 @@
+[
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/4KdtEKjY3Gi0mKiSdy96ML",
+      "id": "4KdtEKjY3Gi0mKiSdy96ML",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/10c890602bb0c5e2076e29d10c1d3c4addaa152f"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/af948fc4cc3f16f7b9afcfa31a91ad3a2f460e8c"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/8d5427fb51d552c7dc7208981f8bd58af53e9956"
+        }
+      ],
+      "name": "Invasion of Privacy",
+      "release_date": "2018-04-06",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+        "id": "4kYSro6naA4h99UJvo89HB",
+        "name": "Cardi B",
+        "type": "artist",
+        "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+      }
+    ],
+    "duration_ms": 223712,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6KBYefIoo7KydImq1uUQlL",
+    "id": "6KBYefIoo7KydImq1uUQlL",
+    "is_local": false,
+    "name": "Bodak Yellow",
+    "popularity": 74,
+    "preview_url": "https://p.scdn.co/mp3-preview/cab6e91217590b37cc254585f3f951c5a5280375?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:6KBYefIoo7KydImq1uUQlL"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/6ZG5lRT77aJ3btmArcykra",
+      "id": "6ZG5lRT77aJ3btmArcykra",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/495b0549379fc4c324445fd7d2bfa219a8c18a90"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/94ac1cac6fcf2be17533ec6e7d638014b90642a2"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/68ff8a9ad0e1c8a7196ce5a3f7224b03cc3dec33"
+        }
+      ],
+      "name": "Parachutes",
+      "release_date": "2000-07-10",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "duration_ms": 266773,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg",
+    "id": "3AJwUDP919kvQ9QcozQPxg",
+    "is_local": false,
+    "name": "Yellow",
+    "popularity": 78,
+    "preview_url": "https://p.scdn.co/mp3-preview/c119ca773ef844108da21c4679dc54c007cf0926?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/6ZOXiVL8rmk2ATHJiFJhiD",
+      "id": "6ZOXiVL8rmk2ATHJiFJhiD",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/289ed8cc47209007aeda6b7aca3bbd04d5fd4265"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/e5e6c6f0dd0c32ad27e7b18d9325e43a7f99ce10"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/8c40de0459e67c8e344a69bff1c374974b8bb983"
+        }
+      ],
+      "name": "Rolling Papers",
+      "release_date": "2011-03-29",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+        "id": "137W8MRPWKqSmrBGDBFSop",
+        "name": "Wiz Khalifa",
+        "type": "artist",
+        "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+      }
+    ],
+    "duration_ms": 217666,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5A6OHHy73AR5tLxgTc98zz",
+    "id": "5A6OHHy73AR5tLxgTc98zz",
+    "is_local": false,
+    "name": "Black and Yellow",
+    "popularity": 71,
+    "preview_url": "https://p.scdn.co/mp3-preview/743b231f046440a6076fef4bb670f133d05651fc?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5A6OHHy73AR5tLxgTc98zz"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/3NEd4iDC7VeLtwQC6p9NJn",
+      "id": "3NEd4iDC7VeLtwQC6p9NJn",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/bfb3db5b11a5c7b2a77f8d69a356f3cbb339b062"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ebf9a67ed27fff3795e4d64da9d23307e29a2327"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/ec86f664ba54fa8320686277d7ac290c35d44e40"
+        }
+      ],
+      "name": "Yellow (feat. Bekon)",
+      "release_date": "2019-06-25",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
+        "id": "2IDLDx25HU1nQMKde4n61a",
+        "name": "Rich Brian",
+        "type": "artist",
+        "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
+      },
+      {
+        "href": "https://api.spotify.com/v1/artists/4VWnuR2hpj6DZNfcpe4e3M",
+        "id": "4VWnuR2hpj6DZNfcpe4e3M",
+        "name": "Bekon",
+        "type": "artist",
+        "uri": "spotify:artist:4VWnuR2hpj6DZNfcpe4e3M"
+      }
+    ],
+    "duration_ms": 291869,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3GCb1V1yb8Jg4zqB8MqaC8",
+    "id": "3GCb1V1yb8Jg4zqB8MqaC8",
+    "is_local": false,
+    "name": "Yellow (feat. Bekon)",
+    "popularity": 68,
+    "preview_url": "https://p.scdn.co/mp3-preview/6047a320ff5dca81e3f76c9d1231a5eab1acb188?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3GCb1V1yb8Jg4zqB8MqaC8"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/6g9uPPHtnxQLSUd6d9xK8n",
+      "id": "6g9uPPHtnxQLSUd6d9xK8n",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/f19b9c3b1a5c8a8ccb81cca47a16f5136fb7133d"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/6a8278a7f90e669e3d63e0d4bf0c2ad9ce336c8e"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/009ca642591b8f5193f7dcb886cd6799505d5943"
+        }
+      ],
+      "name": "Goodbye Yellow Brick Road (Remastered / Deluxe Edition)",
+      "release_date": "1973-10-05",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "type": "artist",
+        "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      }
+    ],
+    "duration_ms": 322548,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0dBatXn1vVUl0jLgXRClwD",
+    "id": "0dBatXn1vVUl0jLgXRClwD",
+    "is_local": false,
+    "name": "Bennie And The Jets - Remastered 2014",
+    "popularity": 70,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0dBatXn1vVUl0jLgXRClwD"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/7JOdtLDLyXJIppDRB7kxr9",
+      "id": "7JOdtLDLyXJIppDRB7kxr9",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/34a461c21d1a8b382380645bb765374497792eba"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/07bee899339a822a7d8485b0b7f8b9579477db06"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/bfcb21915743fd2388efc8b3c42b108da2bb645d"
+        }
+      ],
+      "name": "Ladies Of The Canyon",
+      "release_date": "1970-03-01",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve",
+        "id": "5hW4L92KnC6dX9t7tYM4Ve",
+        "name": "Joni Mitchell",
+        "type": "artist",
+        "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve"
+      }
+    ],
+    "duration_ms": 134800,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6UkMcAA19lTdjs22jtB7o2",
+    "id": "6UkMcAA19lTdjs22jtB7o2",
+    "is_local": false,
+    "name": "Big Yellow Taxi",
+    "popularity": 67,
+    "preview_url": "https://p.scdn.co/mp3-preview/48c0b1294058b0006ceb0cdaf84958cb51da45a7?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:6UkMcAA19lTdjs22jtB7o2"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/6g9uPPHtnxQLSUd6d9xK8n",
+      "id": "6g9uPPHtnxQLSUd6d9xK8n",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/f19b9c3b1a5c8a8ccb81cca47a16f5136fb7133d"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/6a8278a7f90e669e3d63e0d4bf0c2ad9ce336c8e"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/009ca642591b8f5193f7dcb886cd6799505d5943"
+        }
+      ],
+      "name": "Goodbye Yellow Brick Road (Remastered / Deluxe Edition)",
+      "release_date": "1973-10-05",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "type": "artist",
+        "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      }
+    ],
+    "duration_ms": 192826,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6Rvlwah55rEmg1ufhBz022",
+    "id": "6Rvlwah55rEmg1ufhBz022",
+    "is_local": false,
+    "name": "Goodbye Yellow Brick Road - Remastered 2014",
+    "popularity": 65,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:6Rvlwah55rEmg1ufhBz022"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/2ZGkTvwtwDoembcBr8SS0d",
+      "id": "2ZGkTvwtwDoembcBr8SS0d",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/c60ee9292b7ec380b0fb2abecda25f943bf06af2"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/7fa30519bdabc08c4bb27505f4e9ae9e482eeb6d"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/8697ba7971e5bad238d3aee17d4a676450bc286e"
+        }
+      ],
+      "name": "The Sailor",
+      "release_date": "2019-07-26",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
+        "id": "2IDLDx25HU1nQMKde4n61a",
+        "name": "Rich Brian",
+        "type": "artist",
+        "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
+      },
+      {
+        "href": "https://api.spotify.com/v1/artists/4VWnuR2hpj6DZNfcpe4e3M",
+        "id": "4VWnuR2hpj6DZNfcpe4e3M",
+        "name": "Bekon",
+        "type": "artist",
+        "uri": "spotify:artist:4VWnuR2hpj6DZNfcpe4e3M"
+      }
+    ],
+    "duration_ms": 291869,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3PPAFAhNAvJYs74JnujgGq",
+    "id": "3PPAFAhNAvJYs74JnujgGq",
+    "is_local": false,
+    "name": "Yellow (feat. Bekon)",
+    "popularity": 65,
+    "preview_url": "https://p.scdn.co/mp3-preview/6047a320ff5dca81e3f76c9d1231a5eab1acb188?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3PPAFAhNAvJYs74JnujgGq"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/1WJ3UbOi2QYGuRgXCc9FIV",
+      "id": "1WJ3UbOi2QYGuRgXCc9FIV",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/5a72127edde984f9c308ec7c592de8f369de962d"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/6994e36fa4d16bb95beef8da116f8c901dcc2e59"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/773ad9db8ae73445787cada5518732e96d018c80"
+        }
+      ],
+      "name": "Jeremy",
+      "release_date": "1991",
+      "release_date_precision": "year"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+        "id": "1w5Kfo2jwwIPruYS2UWh56",
+        "name": "Pearl Jam",
+        "type": "artist",
+        "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+      }
+    ],
+    "duration_ms": 303586,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3bE5slaVEfaDreqARl6k4M",
+    "id": "3bE5slaVEfaDreqARl6k4M",
+    "is_local": false,
+    "name": "Yellow Ledbetter",
+    "popularity": 66,
+    "preview_url": "https://p.scdn.co/mp3-preview/2dda4a4e4664a5dab9db3b2a8b89e37ac923b2b1?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3bE5slaVEfaDreqARl6k4M"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/0sXFSZWJgiIheiygxFhnXv",
+      "id": "0sXFSZWJgiIheiygxFhnXv",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/699ba8ecb7ded3807696baf0932549f926a97421"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/d8bf7362d3b9e4b1567596915daa66383958296e"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/cd91066dd60a042073625765a8b9035b4f0a1d05"
+        }
+      ],
+      "name": "Anything but Yellow",
+      "release_date": "2019-06-07",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/2NDqx1z4TTkFr0QOnk8nX3",
+        "id": "2NDqx1z4TTkFr0QOnk8nX3",
+        "name": "Haley Mae Campbell",
+        "type": "artist",
+        "uri": "spotify:artist:2NDqx1z4TTkFr0QOnk8nX3"
+      }
+    ],
+    "duration_ms": 180000,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7HDpJlJj7OSJKsKXjllJeV",
+    "id": "7HDpJlJj7OSJKsKXjllJeV",
+    "is_local": false,
+    "name": "Anything but Yellow",
+    "popularity": 61,
+    "preview_url": "https://p.scdn.co/mp3-preview/dfc3231376f403878443584c3afe5c5e17ae09b7?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7HDpJlJj7OSJKsKXjllJeV"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/50oL8ADjfT0n9gVoMpDwBy",
+      "id": "50oL8ADjfT0n9gVoMpDwBy",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ccd4df12e2458849b5f50a56e7c6a79ecd2c3e82"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ae7475f5b8c95bde0c6e4f06de3f54a152b98068"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/e1633bb3f661b051ef6fd75728fbe6edb9c5a2de"
+        }
+      ],
+      "name": "Hard Candy",
+      "release_date": "2002-07-08",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC",
+        "id": "0vEsuISMWAKNctLlUAhSZC",
+        "name": "Counting Crows",
+        "type": "artist",
+        "uri": "spotify:artist:0vEsuISMWAKNctLlUAhSZC"
+      },
+      {
+        "href": "https://api.spotify.com/v1/artists/5ILrArfIV0tMURcHJN8Q07",
+        "id": "5ILrArfIV0tMURcHJN8Q07",
+        "name": "Vanessa Carlton",
+        "type": "artist",
+        "uri": "spotify:artist:5ILrArfIV0tMURcHJN8Q07"
+      }
+    ],
+    "duration_ms": 225573,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4O4dhPrjcw7GSLNafNydmb",
+    "id": "4O4dhPrjcw7GSLNafNydmb",
+    "is_local": false,
+    "name": "Big Yellow Taxi",
+    "popularity": 60,
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:4O4dhPrjcw7GSLNafNydmb"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/3lajefIuUk4SfzqVBSJy8p",
+      "id": "3lajefIuUk4SfzqVBSJy8p",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/2330100f8613c827dce28f67eea83bc05d1451f7"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/aa6ba8faab505ef500fcef0f443941578b62e84d"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/47a84825901682c9a979940b8951d424136c1eee"
+        }
+      ],
+      "name": "Good For You",
+      "release_date": "2017-07-28",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/3Gm5F95VdRxW3mqCn8RPBJ",
+        "id": "3Gm5F95VdRxW3mqCn8RPBJ",
+        "name": "Aminé",
+        "type": "artist",
+        "uri": "spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ"
+      },
+      {
+        "href": "https://api.spotify.com/v1/artists/2gBjLmx6zQnFGQJCAQpRgw",
+        "id": "2gBjLmx6zQnFGQJCAQpRgw",
+        "name": "Nelly",
+        "type": "artist",
+        "uri": "spotify:artist:2gBjLmx6zQnFGQJCAQpRgw"
+      }
+    ],
+    "duration_ms": 180000,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4Hj5yNHgu2dyrnzRQN7Gld",
+    "id": "4Hj5yNHgu2dyrnzRQN7Gld",
+    "is_local": false,
+    "name": "Yellow",
+    "popularity": 59,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4Hj5yNHgu2dyrnzRQN7Gld"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/0LdRgpucz4vwdCKW2qQzHO",
+      "id": "0LdRgpucz4vwdCKW2qQzHO",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/7cd7a4971784b60192910645268d06f9a87a3e57"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/7490ded9feb47e2a3c6113ff228f3e601e0fb15d"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/7b7a48023a0e18b74823e41d65d10d85b05dc9b6"
+        }
+      ],
+      "name": "Imaginary Man",
+      "release_date": "2015-08-14",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/251UrhgNbMr15NLzQ2KyKq",
+        "id": "251UrhgNbMr15NLzQ2KyKq",
+        "name": "Rayland Baxter",
+        "type": "artist",
+        "uri": "spotify:artist:251UrhgNbMr15NLzQ2KyKq"
+      }
+    ],
+    "duration_ms": 230786,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/31xrn5sCbjaYUfVWcXgOFl",
+    "id": "31xrn5sCbjaYUfVWcXgOFl",
+    "is_local": false,
+    "name": "Yellow Eyes",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/c282eca788994c3d063bff31f8352b08125cab13?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:31xrn5sCbjaYUfVWcXgOFl"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/414ovELKpZtIZMlZTp39ce",
+      "id": "414ovELKpZtIZMlZTp39ce",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/1337a5264e20c0fd076941c28db3241f5fdbb28c"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/0408793d0f1301ac5c48d06b59d64d6602652ee2"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/24e8c72feeec8551dad5ccf3aafcec2a23c4cee3"
+        }
+      ],
+      "name": "Amsterdam Twerk Music",
+      "release_date": "2013-10-15",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/47z7ZrgFoBvVpCnElCE3Zh",
+        "id": "47z7ZrgFoBvVpCnElCE3Zh",
+        "name": "Yellow Claw",
+        "type": "artist",
+        "uri": "spotify:artist:47z7ZrgFoBvVpCnElCE3Zh"
+      }
+    ],
+    "duration_ms": 211776,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1ivuWgxFQb2xzxVNSlB1hF",
+    "id": "1ivuWgxFQb2xzxVNSlB1hF",
+    "is_local": false,
+    "name": "DJ Turn It Up",
+    "popularity": 67,
+    "preview_url": "https://p.scdn.co/mp3-preview/6122811334f20e3ec60ecb213a03aafb482127f6?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1ivuWgxFQb2xzxVNSlB1hF"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/3PRoXYsngSwjEQWR5PsHWR",
+      "id": "3PRoXYsngSwjEQWR5PsHWR",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/af77b3742860d1d00509c22441bd65a470f74ada"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/334da48c0c3eb0f6fcc6609b6a00541f4b212de1"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/95e9dcacdd0f5780e9749b3828f5840544ef2038"
+        }
+      ],
+      "name": "Revolver (Remastered)",
+      "release_date": "1966-08-05",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+        "id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "name": "The Beatles",
+        "type": "artist",
+        "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+      }
+    ],
+    "duration_ms": 158880,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/50xwQXPtfNZFKFeZ0XePWc",
+    "id": "50xwQXPtfNZFKFeZ0XePWc",
+    "is_local": false,
+    "name": "Yellow Submarine - Remastered 2009",
+    "popularity": 63,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:50xwQXPtfNZFKFeZ0XePWc"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/162XZSDZpr559n4iyLy8m5",
+      "id": "162XZSDZpr559n4iyLy8m5",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/b96b5d7be546ed653cd14168300af65a0684c18a"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/d4b9adcd814fcfc342f7eaae3665d17244ddb4aa"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/f4f92ef76bcbedc321fd3b250f990242f46c7e77"
+        }
+      ],
+      "name": "Clé 2 : Yellow Wood",
+      "release_date": "2019-06-19",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+        "id": "2dIgFjalVxs4ThymZ67YCE",
+        "name": "Stray Kids",
+        "type": "artist",
+        "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+      }
+    ],
+    "duration_ms": 193852,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1BiXkuVBXz9IzP7210Zo9I",
+    "id": "1BiXkuVBXz9IzP7210Zo9I",
+    "is_local": false,
+    "name": "Side Effects",
+    "popularity": 69,
+    "preview_url": "https://p.scdn.co/mp3-preview/c38810355f0c3dc83f691a67db177ef2055b5237?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1BiXkuVBXz9IzP7210Zo9I"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/289jwa5AxytNuowanT28Dm",
+      "id": "289jwa5AxytNuowanT28Dm",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/f8942f7ec57bb6af10440acd7264438f9459fbcc"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/60533554af076f664b2b701e64df2864355ca294"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/7537408119aab5f9d98072e73d9a3bd877357b17"
+        }
+      ],
+      "name": "We Can Get High",
+      "release_date": "2019-06-14",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu",
+        "id": "4sTQVOfp9vEMCemLw50sbu",
+        "name": "Galantis",
+        "type": "artist",
+        "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu"
+      },
+      {
+        "href": "https://api.spotify.com/v1/artists/47z7ZrgFoBvVpCnElCE3Zh",
+        "id": "47z7ZrgFoBvVpCnElCE3Zh",
+        "name": "Yellow Claw",
+        "type": "artist",
+        "uri": "spotify:artist:47z7ZrgFoBvVpCnElCE3Zh"
+      }
+    ],
+    "duration_ms": 156839,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Vct1PkjAYGH2X4iwNVR71",
+    "id": "0Vct1PkjAYGH2X4iwNVR71",
+    "is_local": false,
+    "name": "We Can Get High",
+    "popularity": 67,
+    "preview_url": "https://p.scdn.co/mp3-preview/d1dd55a75d20f700833cab6c0f4ef91ec822e486?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0Vct1PkjAYGH2X4iwNVR71"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/5CPwacWmIAaA5DLUq7EHUC",
+      "id": "5CPwacWmIAaA5DLUq7EHUC",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/78812a31f33975dfe594a9b03290c04b01056df0"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/53757ccad99945a45f726b217f7f4b03d945171c"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/f4bd6719ec68ae856c05853128c6d03ee034a94b"
+        }
+      ],
+      "name": "Harmless Melodies",
+      "release_date": "2016-11-18",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/3dv4Q4q3LWOnbLJnC6GgTY",
+        "id": "3dv4Q4q3LWOnbLJnC6GgTY",
+        "name": "Yellow Days",
+        "type": "artist",
+        "uri": "spotify:artist:3dv4Q4q3LWOnbLJnC6GgTY"
+      }
+    ],
+    "duration_ms": 318147,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1ahzHj4rfljE8w4ZwpEjOM",
+    "id": "1ahzHj4rfljE8w4ZwpEjOM",
+    "is_local": false,
+    "name": "A Little While",
+    "popularity": 62,
+    "preview_url": "https://p.scdn.co/mp3-preview/99324fb2036fbce7671c73eeef24a69d8d5057c5?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:1ahzHj4rfljE8w4ZwpEjOM"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/0YUEyU02GWdY3xRs55DfzE",
+      "id": "0YUEyU02GWdY3xRs55DfzE",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/c1061b35fd855d4d434d96b3120e5615efaf1b58"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/015c9e039d576c819fbd1fb50cad1aa4237d21e0"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/448f1993404897bc6df208ae1f0dba9898c8ab5f"
+        }
+      ],
+      "name": "Yesterday's Tomorrow Night",
+      "release_date": "2018-03-30",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/3btNpz9NEJ8ml352B8S7Qr",
+        "id": "3btNpz9NEJ8ml352B8S7Qr",
+        "name": "Harry Hudson",
+        "type": "artist",
+        "uri": "spotify:artist:3btNpz9NEJ8ml352B8S7Qr"
+      }
+    ],
+    "duration_ms": 171381,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/524dq3zKwXrP4uPL6VwoWT",
+    "id": "524dq3zKwXrP4uPL6VwoWT",
+    "is_local": false,
+    "name": "Yellow Lights",
+    "popularity": 55,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:524dq3zKwXrP4uPL6VwoWT"
+  },
+  {
+    "album": {
+      "href": "https://api.spotify.com/v1/albums/4LcmZzFiH4gmNk8meb66iO",
+      "id": "4LcmZzFiH4gmNk8meb66iO",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/c6b6d96a4cb1ac6d572c580c03ee4b809677a4b4"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/0d22feee17436358b0d08e66526a3273b1907724"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/59a44c17fce0787cb138e717a665f602d48c8cba"
+        }
+      ],
+      "name": "A Color Map of the Sun (Deluxe Version)",
+      "release_date": "2013-07-02",
+      "release_date_precision": "day"
+    },
+    "artists": [
+      {
+        "href": "https://api.spotify.com/v1/artists/4iVhFmG8YCCEHANGeUUS9q",
+        "id": "4iVhFmG8YCCEHANGeUUS9q",
+        "name": "Pretty Lights",
+        "type": "artist",
+        "uri": "spotify:artist:4iVhFmG8YCCEHANGeUUS9q"
+      }
+    ],
+    "duration_ms": 339955,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1r5J8bYOWq1Dal5jMQ06WX",
+    "id": "1r5J8bYOWq1Dal5jMQ06WX",
+    "is_local": false,
+    "name": "Yellow Bird",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/bc0bc2bc6f38703414c7cd439197b375954b4d73?cid=a6bda15e142e4c37b28eede2c757b687",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1r5J8bYOWq1Dal5jMQ06WX"
+  }
+]
